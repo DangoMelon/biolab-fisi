@@ -1,0 +1,12 @@
+name: biolab
+channels:
+  - conda-forge
+dependencies:
+  - scipy
+  - matplotlib
+  - pandas
+  - numpy
+  - black
+  - isort
+  - jupyterlab
+prefix: /home/dangomelon/anaconda3/envs/biolab

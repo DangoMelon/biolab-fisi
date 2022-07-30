@@ -10,4 +10,6 @@ dependencies:
   - isort
   - jupyterlab
   - pre-commit
+  - nbqa
+  - pyupgrade
 prefix: /home/dangomelon/anaconda3/envs/biolab

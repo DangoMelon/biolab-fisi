@@ -9,4 +9,5 @@ dependencies:
   - black
   - isort
   - jupyterlab
+  - pre-commit
 prefix: /home/dangomelon/anaconda3/envs/biolab
